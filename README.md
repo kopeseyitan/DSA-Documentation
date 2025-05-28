@@ -13,6 +13,6 @@ The e-commerce project over the past Year.
 The primary source of data used here
 
 ### Tools used
-- Ms Excel for data cleaning [Download here] (https://excel.cloud.microsoft/new/?wdOrigin=new.apphome.excel)
+- Ms Excel for data cleaning [Download here] {https://excel.cloud.microsoft/new/?wdOrigin=new.apphome.excel}
   - for data collection
   - for data cleaning
