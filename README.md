@@ -26,10 +26,21 @@ downloaded from an open-source online site such as Kaggle, Fred, or any other da
 - Ms PowerPoint (for presentation)
 
   ### Data Cleaning and Preparation
-In the initial phase of the data cleaning and preparations, we perform the following actions
+In the initial phase of the data cleaning and preparation, we perform the following actions
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
 
-Exploratory Data Analysis
-EDA involves
+### Exploratory Data Analysis
+EDA involves exploring the data to answer questions about the data, such as
+- What is the overall sales trend
+- Which products are top sellers
+- What are the products on peak sales
+
+Data Analysis
+This is where we include some basic lines, queries, or even some of the DAX expressions used during your analysis
+ ```    SQL
+SELECT A,B,C
+WHERE A > 45
+ ```
+
