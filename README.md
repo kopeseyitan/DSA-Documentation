@@ -12,9 +12,24 @@ we seek to gather enough insight to make reasonable decisions, which then enable
 stories around our data from the insight gained, and to know the best performance from our data
 
 ### Data Sources
-The primary source of data used here
+The primary source of data used here is data sales.csv, and this is an open-source dataset that can be freely
+downloaded from an open-source online site such as Kaggle, Fred, or any other data repository site
 
 ### Tools used
-- Ms Excel for data cleaning [Download here] {https://excel.cloud.microsoft/new/?wdOrigin=new.apphome.excel}
+- Ms Excel for data cleaning [Download here]{https://excel.cloud.microsoft/new/?wdOrigin=new.apphome.excel}
   - for data collection
   - for data cleaning
+    1. Data Manipulation
+    2. Data Munching
+- SQL Server (for Querying and Analysis)
+- Power BI ( for creating a report)
+- Ms PowerPoint (for presentation)
+
+  ### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparations, we perform the following actions
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+Exploratory Data Analysis
+EDA involves
