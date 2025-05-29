@@ -1,13 +1,15 @@
 # DSA-Documentation
 This is where I started my portfolio while taking my Data Analysis Class with the Incubator
 
-I have learnt quite several things from Excel to SQL, and now to portfolio building
+I have learnt several things from Excel to SQL, and now to portfolio building
 
 ## Project Topic: E Commerce Sales Analysis
 
 ### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of
-The e-commerce project over the past Year.
+The e-commerce project over the past Year. By analysing the various parameters in the data received,
+we seek to gather enough insight to make reasonable decisions, which then enable us to tell compelling
+stories around our data from the insight gained, and to know the best performance from our data
 
 ### Data Sources
 The primary source of data used here
