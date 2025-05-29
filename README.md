@@ -44,3 +44,10 @@ SELECT A,B,C
 WHERE A > 45
  ```
 
+# Analysis 
+![Bar Chart](https://github.com/user-attachments/assets/c706ae71-28c7-48b8-b339-8aa1b126a665)
+
+![Pie Chart 1](https://github.com/user-attachments/assets/f482da80-b045-41f8-94c8-9c7acf191ec9)
+
+**Kehinde Opeseyitan**
+*opeseyitan@yahoo.com*
